@@ -1,5 +1,7 @@
 import express, { Request, Response } from 'express'
 import cors from 'cors'
+import { db } from './database/knex'
+
 
 const app = express()
 
@@ -12,7 +14,9 @@ app.listen(3003, () => {
 
 app.get("/ping", async (req: Request, res: Response) => {
     try {
-        res.status(200).send({ message: "Pong!" })
+		// const result = await db.select("*").from("users")
+        // const result = await db("users")
+        res.status(200).send({ message: "Pong!"})
     } catch (error) {
         console.log(error)
 
