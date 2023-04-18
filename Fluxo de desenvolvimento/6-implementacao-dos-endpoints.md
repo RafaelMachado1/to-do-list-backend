@@ -36,3 +36,8 @@
     - path params é sempre string
     - validamos se a id já existe
     - **[refatorando para garantir a constraint Foreign Key](https://drive.google.com/file/d/1gFBW1s79jbRNLC8D13i8x8evqWXpxGtv/view?usp=share_link)**
+    
+## Users + Tasks
+
+- **[POST user to task by ids](https://drive.google.com/file/d/11fEy0kNmyunSFTLsefIrTMbGw18Cnc-l/view?usp=share_link)**
+    - recebendo as ids via path params
