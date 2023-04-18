@@ -17,3 +17,8 @@
         - para validar se a id recebida começa com a letra “f” precisamos olhar para a posição [0] e não a [1]
     - [**refatorando para garantir a constraint Foreign Key**](https://drive.google.com/file/d/1_ckUh0SmCy3uAU9gUxJNBXqaoxhmm82b/view?usp=share_link)
 
+## Tasks
+
+- [**GET all tasks**](https://drive.google.com/file/d/1xs2jwRWlIPcWGTZhquS-tRZ1WKWbNK14/view?usp=share_link)
+    - é comum existir um query params para mudar o comportamento da busca
+
