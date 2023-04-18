@@ -22,3 +22,9 @@
 - [**GET all tasks**](https://drive.google.com/file/d/1xs2jwRWlIPcWGTZhquS-tRZ1WKWbNK14/view?usp=share_link)
     - é comum existir um query params para mudar o comportamento da busca
 
+- [**POST task**](https://drive.google.com/file/d/1Z2ZwTp_WK-Sp7I4ZaV4LnrpeZaDH9tUv/view?usp=share_link)
+    - dados de entrada são obrigatórios
+        - porém algumas colunas no banco de dados são preenchidas automaticamente
+    - validação > funcionalidade
+    - é importante tipar a tabela do banco de dados
+
