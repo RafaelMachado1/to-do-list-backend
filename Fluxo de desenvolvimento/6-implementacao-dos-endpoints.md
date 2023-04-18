@@ -28,3 +28,6 @@
     - validação > funcionalidade
     - é importante tipar a tabela do banco de dados
 
+- [**PUT task by id**](https://drive.google.com/file/d/1I1SdpmlAMe_8DP1sy3V-bfBZcQDljMX5/view?usp=share_link)
+    - dados de entrada são opcionais
+    - **[refatorando para garantir a constraint Foreign Key](https://drive.google.com/file/d/12nvoDUwOPvOSLNCD-WNu2NajJCtIk_gy/view?usp=share_link)**
