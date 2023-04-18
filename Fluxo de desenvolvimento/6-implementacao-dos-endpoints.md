@@ -44,3 +44,7 @@
 
 - **[DELETE user from task by ids](https://drive.google.com/file/d/1d8qdzMiwll6xGfZFhnB3evwAvjqvlCNz/view?usp=share_link)**
     - recebendo as ids via path params
+
+- [**GET all users with tasks**](https://drive.google.com/file/d/1ZQ3UTVZOX8K1Kmto1XgzLMruD1UsgtCB/view?usp=share_link)
+    - não se preocupe caso o fluxo não faça sentido na sua cabeça, com o tempo tudo fica mais claro
+    - vídeo sem cortes para deixar o processo de desenvolvimento o mais transparente possível (na vida real é realmente tentativa e erro!)
