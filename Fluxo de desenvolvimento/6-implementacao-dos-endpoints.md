@@ -41,3 +41,6 @@
 
 - **[POST user to task by ids](https://drive.google.com/file/d/11fEy0kNmyunSFTLsefIrTMbGw18Cnc-l/view?usp=share_link)**
     - recebendo as ids via path params
+
+- **[DELETE user from task by ids](https://drive.google.com/file/d/1d8qdzMiwll6xGfZFhnB3evwAvjqvlCNz/view?usp=share_link)**
+    - recebendo as ids via path params
